@@ -16,7 +16,7 @@ A simple Python CLI app to manage hospital patient records. All data is saved in
 ```bash
 git clone https://github.com/thesohailahmad/hospital-management-system.git
 cd hospital-management-system
-python main.py
+hospital_mangment_system.py
 ```
 
 No extra libraries needed — only Python built-ins (`json`, `os`).
